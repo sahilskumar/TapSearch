@@ -1,0 +1,30 @@
+{
+  "name": "tapsearch",
+  "version": "1.0.0",
+  "description": "Searching Tool",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "tapsearch",
+    "prathameshmore"
+  ],
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.4",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.12",
+    "package.json": "^2.0.1"
+  }
+}
